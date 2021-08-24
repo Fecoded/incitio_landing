@@ -1,0 +1,12 @@
+export const GET_EVENTS = "GET_EVENTS";
+export const USERS_EVENTS = "USER_EVENTS";
+export const GET_JOBS = "GET_JOBS";
+export const UPSERT_EVENT = "UPSERT_EVENTS";
+export const EVENT_DETAILS = "EVENT_DETAILS";
+export const EVENT_VALUES = "EVENT_VALUES";
+export const EVENT_TIME = "EVENT_TIME";
+export const EVENT_DATE = "EVENT_DATE";
+export const EVENT_TAG = "EVENT_TAG";
+export const EVENT_VENUE = "EVENT_VENUE";
+export const EVENT_PICTURE = "EVENT_PICTURE";
+export const CREATE_EVENT = "CREATE_EVENT";

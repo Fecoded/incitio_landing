@@ -1,0 +1,10 @@
+export const USER_LOADED = "USER_LOADED";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const USER_WALLET = "USER_WALLET";
+export const USER_ACCOUNT = "USER_ACCOUNT";
+export const CALENDAR_FEEDS = "CALENDAR_FEEDS";
+export const USER_GROUP = "USER_GROUP";
+export const PROFILE_URL = "PROFILE_URL";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGOUT = "LOGOUT";

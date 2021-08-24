@@ -1,0 +1,3 @@
+export const USER_FRIENDS = "USER_FRIENDS";
+export const ACCEPT_FRIEND = "ACCEPT_FRIEND";
+export const GET_SUGGESTIONS = "GET_SUGGESTIONS";
